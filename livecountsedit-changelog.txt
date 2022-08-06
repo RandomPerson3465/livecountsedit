@@ -46,7 +46,7 @@ https://github.com/RandomPerson3465/randomperson3465.github.io/commit/55c8b09a3c
 - New red theme
 - Highcharts graph
 - Options are more subtle and most require keybinds to open.
-- Adds URL parameters to 
+- Adds URL parameters to import settings.
 
 3.2.0p1 (PATCH) -- March 20, 2020
 https://github.com/RandomPerson3465/randomperson3465.github.io/commit/d71d1bfe2c5e3110743911b5cab46ed1fcd35a4c
@@ -152,7 +152,7 @@ https://github.com/RandomPerson3465/randomperson3465.github.io/commit/e5a96a0d57
 2.1.0 -- March 1, 2020
 https://github.com/RandomPerson3465/randomperson3465.github.io/commit/91fdbf7f01d9f50aa5f870962d0c8b4a55b44113
 https://github.com/RandomPerson3465/randomperson3465.github.io/commit/5a4b552cf1fc2614bb19985f7f616aee405480b3
-- Adds the option to set subs in per second, hour, and day, not just per minute
+- Adds the option to set subs in per second and per hour, not just per minute
 
 2.0.1p1 (PATCH) -- March 1, 2020
 https://github.com/RandomPerson3465/randomperson3465.github.io/commit/660ee58c02692d6f6783920fc79618454f630da1
@@ -167,11 +167,11 @@ https://github.com/RandomPerson3465/randomperson3465.github.io/commit/3f13ff96ef
 https://github.com/RandomPerson3465/randomperson3465.github.io/commit/0b7bc1d24b327985b4b0722adf30d0d5b8d5bef5
 - Adds custom subscriber rate per minute
 
-1.0.0p5 (HOTFIX) -- August 27, 2019
+1.0.0p2 (HOTFIX) -- August 27, 2019
 https://github.com/RandomPerson3465/randomperson3465.github.io/commit/6d6fe2eedf1dbce7d10dd21844a6098ab2868293
 - Fixes syntax error in HTML
 
-1.0.0p4 (HOTFIX) -- August 27, 2019
+1.0.0p1 (HOTFIX) -- August 27, 2019
 https://github.com/RandomPerson3465/randomperson3465.github.io/commit/7dd763630847c00ef874e532d07ad46ed6d363bd
 https://github.com/RandomPerson3465/randomperson3465.github.io/commit/151502707c992642c22a88743f36ee2d9edb7352
 - Fixes incorrectly linked CSS
