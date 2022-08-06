@@ -1,0 +1,225 @@
+Livecountsedit Changelogs:
+
+SINGLE USER MODE:
+
+4.1.fools-p1 (HOTFIX) -- April 1, 2021
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/713e2269f07418a222823d65fb8671afb3fea0ed
+- Fixes incorrectly linked CSS and JS
+
+4.1.fools -- April 1, 2021
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/85cb327a34c4d97bf31322fde3857d5f7f677f7e
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/af9f303a7f8e648b1127a859f24887780156dffa
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/43432760e0b748f80a777c1095e7b9a7903bfe9f
+- Added the ability to sync with the YouTube API.
+- Many new features such as different themes, custom CSS and colors, etc.
+- Settings are now saved after refreshing.
+
+4.1.0 -- March 2, 2021
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/c906ff0c1be3607d7c6c3ea6d1b5305399ae49f2
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/121ea572707bcc642a6985bf38fd4fd672a4b05a
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/a5e368e6ea0d1b95a042d2283b5a94c14e6bfba1
+- Added an options menu.
+- Removed the shoutout boxes.
+
+5.0.0p1 (HOTFIX) -- February 15, 2021
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/46e6d8cdc4c4ab97b205f1ee6e7ba8d25083f6d7
+- Fixed incorrectly linked CSS
+
+5.0.0b1 -- February 15, 2021
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/f24865aa9546a49f2652c2556ae15c02421e5f11
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/678a7e05ed619e7f912fac3b9d538401523eb78f
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/3c30508103bb818ff63efbe90214510d0e6a4fc2
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/e2747edf80e1b2a878fd62430c959456b030fd92
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/7089f5dc606510c10aee6f472da64a56ca5b5eb4
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/d1e3f52c94774c34f9f1ab3c62309784134efde3
+- Adds different themes.
+- Was temporary and removed on April 17, 2021.
+
+4.0.0p1 (HOTFIX) -- May 31, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/f27161297746969e333f726dda7e0738c8f7fbb1
+- Fixes an XSS (cross site scripting) exploit by using the URL Parameters.
+
+4.0.0 -- May 31, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/7a982176788fe575e4d5e4a4f067a43cd68b6f4c
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/847b92c158167e44b390342ffbecc542eefc7c6c
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/55c8b09a3ca763a909eda5e3306f9fa0324042d5
+- New red theme
+- Highcharts graph
+- Options are more subtle and most require keybinds to open.
+- Adds URL parameters to 
+
+3.2.0p1 (PATCH) -- March 20, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/d71d1bfe2c5e3110743911b5cab46ed1fcd35a4c
+- Fixes colors
+
+3.2.0 -- March 19, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/8ac37dc2509aafc365037d509c9e7cec0bf7fb63
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/31d3827b734219ffdb495080944987ccdff449a0
+- Adds a minimum and maximum sub rate
+- Capped at 500 graph values instead of 1000
+
+3.1.1 -- March 6, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/775c345eb8aad49ce0bb0067940c7bcc9443739b
+- Separates the displayed count from the actual decimal count that is stored in memory
+
+3.1.0p1 (PATCH) -- March 6, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/7fe7608e90dd4c97f01dac3e641d222712426b3b
+- Fixes graph
+
+3.1.0 -- March 6, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/c3a0cf1e2a78764937f7e77edef0196d35d80a48
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/33a4f8ccc8076cbeb638d5cb0da1db8f15d75236
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/6c8bda2cdb3c02460e38b2b22df6214cfb9bd5f3
+- Adds "occasionally remove subs" feature
+- Adds basic graph
+
+3.0.1p4 (PATCH) -- March 2, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/0f069cb3368eebbfb37bebfc559b8a902829ddce
+- Fixes goal being 0 instead of 10
+
+3.0.1p3 (PATCH) -- March 2, 2020 https://github.com/RandomPerson3465/randomperson3465.github.io/commit/4134b01e7fcbdafb0c3c841d3ce029f4febc595e
+- Fixes goal being negative when count is negative
+
+3.0.1p2 (PATCH) -- March 2, 2020 https://github.com/RandomPerson3465/randomperson3465.github.io/commit/99635f5a9bfd0078f19b4ad446e3a753c8804353
+- Fixes goal counter not being affected by night mode
+
+3.0.1p1 (HOTFIX) -- March 2, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/9e70ea7a184abd9ec4b0ecfc13590eee4a68b274
+- Fixes a missing semicolon in the code
+
+3.0.1 -- March 2, 2020 
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/461a0c9d865a2dc293899c622914dfa70836fbf6
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/77a1d0075a26d5fd6eb7634bc344821098054b4c
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/dc2ae3b64d4ac4c8508a1304da7f24e0dcebd8de
+- Adds a goal counter
+
+3.0.0p4 (PATCH) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/5de208a82814fc0bb879095743a53066d584f084
+- Fixes decimal counts
+
+3.0.0p3 (PATCH) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/0c057405d2e6fd2d7adb9fb3aef87d162f4010ea
+- Fixes "logged action" not being affected by night mode
+
+3.0.0p2 (HOTFIX) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/65636d7ed9411ebbf2f6a1644bace07b9b763b22
+- Fixes a missing semicolon in the code (Dear Past RandomPerson3465, you should have used a proper JS minifier 💀)
+
+3.0.0p1 (HOTFIX) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/87ca58498331442d1c8e7a6142795b7f1e5ffbde
+- Fixes 2 missing semicolons in the code
+
+3.0.0 -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/8020db71191898862ae0b5b6649226a479f86888
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/94cd159b570ceb4f9d45d6075c856185a527d805
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/9c3cf64b0fca1b40f20356c2ddb5d42236a40c05
+- Adds keybinds
+- Renamed from "Livecounts hacker" to "Livecountsedit"
+
+
+2.1.1p4 (PATCH) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/b2bdfde25bec13010e6c2aa497f730749b1f418f
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/3ffe19d5fc7dd2fddd9d35198bcd2ee96e26b7aa
+- Patches rates being able to go up to 60 billion a minute
+
+2.1.1p3 (HOTFIX) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/9f4477fac55a759d2ea377871e242b75d0a90f75
+- Fixes a missing semicolon in the code (bro RandomPerson3465 you could have just fixed it before removing all the line breaks)
+
+2.1.1p2 (PATCH) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/79cf50e70f05ffa0c15eb1bc07dca0d385bc683d
+- Fixes maximum rate being calculated incorrectly
+
+2.1.1p1 (HOTFIX) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/1249c49390d5e003b5adf3ffe62d243eb3965751
+- Fixes a missing semicolon in the code
+
+2.1.1 -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/fdfc8e7db17c8ef3e428b06e6a817ce1511482a0
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/ad3b1951be57355e65128206fe9b252d365e759d
+- Adds night mode
+- Makes the rate limit 1 billion a minute instead of 1 billion per (time option)
+- Adds a feature to enable or disable negative counts
+
+2.1.0p2 (HOTFIX) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/adef5cb4f76e79688235610b67ec831911fe2773
+- Fixes syntax errors caused by removing line breaks (TEST the damn "minified" thing before uploading it!)
+
+2.1.0p1 (HOTFIX) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/e5a96a0d5774f8b7550bf2595167ae2dddfc7f2d
+- Fixes a missing semicolon in the code
+
+2.1.0 -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/91fdbf7f01d9f50aa5f870962d0c8b4a55b44113
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/5a4b552cf1fc2614bb19985f7f616aee405480b3
+- Adds the option to set subs in per second, hour, and day, not just per minute
+
+2.0.1p1 (PATCH) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/660ee58c02692d6f6783920fc79618454f630da1
+- Fixes rates being calculated incorrectly as a result of the new update interval
+
+2.0.1 -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/a32e47f3a3ca36eff8f3d113eee98b2d0abf822e
+- Makes the counter update once every 2 seconds instead of 0.75 seconds.
+
+2.0.0 -- February 29, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/3f13ff96eff45f27854a78f363e885cb118b47a5
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/0b7bc1d24b327985b4b0722adf30d0d5b8d5bef5
+- Adds custom subscriber rate per minute
+
+1.0.0p5 (HOTFIX) -- August 27, 2019
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/6d6fe2eedf1dbce7d10dd21844a6098ab2868293
+- Fixes syntax error in HTML
+
+1.0.0p4 (HOTFIX) -- August 27, 2019
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/7dd763630847c00ef874e532d07ad46ed6d363bd
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/151502707c992642c22a88743f36ee2d9edb7352
+- Fixes incorrectly linked CSS
+
+1.0.0 -- August 27, 2019
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/ff3f7294cbb99829368ec4eb750304b278ae0b86
+- Livecountsedit moved to RandomPerson3465 site repo instead of being in a separate repo
+- Original version was created July 27, 2019; and uploaded to website on July 29, 2019
+
+COMPARE MODE:
+
+2.1.0 -- March 24, 2021
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/eeeebbbeac532eae9230f15a615991a05895da70
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/815330946aa3a0c7ecd706392c67996294c926af
+- Adds a better options menu, that is accessed with the gear icon on the top left.
+- More customizable "subscriber gap" counter
+- Custom update interval
+- Settings can now be kept after refreshing
+- Customizable minimum and maximum subscriber counts
+
+2.0.0p1 (HOTFIX) -- May 4, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/b1889b5b689f92f88e06e3eb0d793c66e1895e02
+- Fixes incorrectly linked JS
+
+2.0.0 -- May 4, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/93b5eedef1ec2063cee40faec1cdf40c9fea727d
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/a1ad3723e619982b0b401d97167d90bb6d21d996
+- New blue compare mode theme.
+- Added Highcharts graph.
+- Options are now more subtle.
+- Removed channel icons.
+
+April 6, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/0ef992c93ac66de2078cf06eb5158e254ad2f3a2
+- Battle mode was removed. idk what the fuck RandomPerson3465 was thinking but he decided to rickroll everyone for literally no reason.
+
+1.1.0 -- March 4, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/1bd3bc34a1f520151476b69423704570ac01e6ce
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/f218925f0f289b008a73607fb60fe7c40d3d4da9
+- Adds the option to set subscriber rates.
+
+1.0.0p1 (HOTFIX) -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/4dfedd88a6b9d75233023ceeede296ec544f6c2d
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/921de1231bd8da28dcee2f96989c4d68748bfa34
+- Fixes four missing semicolons in the code
+
+1.0.0 -- March 1, 2020
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/7f2c33d0a595af1e3f37641414ada4f093ea7e07
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/68493b0a5df5bacdd9f1546d4820317e7d586ff5
+https://github.com/RandomPerson3465/randomperson3465.github.io/commit/7ad51acbef5af4079e41a986b093c6d6dc80c6d0
+- Adds compare mode

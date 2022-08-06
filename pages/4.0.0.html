@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext"  type="text/css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%20Condensed&subset=latin,latin-ext" type="text/css">
+        <link rel="stylesheet" href="../src/lcedit-4.0.0.css">
+        <link rel="stylesheet" href="https://github.hubspot.com/odometer/themes/odometer-theme-minimal.css">
+    </head>
+    <body>
+        <h1 id="name" onclick="setName()">YouTube Channel Name</h1>
+        <h2 id="description" onclick="toggleBox()">Live Subscriber Counter</h2>
+        <div id="count" class="odometer" onclick="setCount()">0</div>
+        <div id="chart"></div>
+        <input id="subs" type="number" placeholder="New subscriber count"><br>
+        <div class="container">
+            <div class="counter">
+                <h3 class="counterTitle">Goal</h3>
+                <div class="odometer" id="smallCounter">0</div>
+            </div>
+        </div>
+        <script src="https://code.highcharts.com/stock/highstock.js"></script>
+        <script src="https://github.hubspot.com/odometer/odometer.js"></script>
+        <script src="../src/lcedit-4.0.0.js"></script>
+    </body>
+</html>

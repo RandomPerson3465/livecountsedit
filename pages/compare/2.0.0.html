@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<title>Livecountsedit Compare 2.0</title>
+		<link rel="stylesheet" href="../../src/lcedit-compare-2.0.0.css" type="text/css">
+		<link rel="stylesheet" href="https://github.hubspot.com/odometer/themes/odometer-theme-minimal.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext" type="text/css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%20Condensed&subset=latin,latin-ext" type="text/css">
+	</head>
+	<body id="body">
+		<div class="container">
+			<div id="channel1">
+				<h1 id="channelName1" onclick="setName(1)">Channel 1</h1>
+				<br>
+				<div class="odometer" onclick="setRates(1)" id="channelSubs1">0</div>
+				<br>
+				<input type="number" id="setSubs1" placeholder="Subs for channel 1">
+			</div>
+			<br>
+			<div id="channel2">
+				<h1 id="channelName2" onclick="setName(2)">Channel 2</h1>
+				<br>
+				<div class="odometer" onclick="setRates(2)" id="channelSubs2">0</div>
+				<br>
+				<input type="number" id="setSubs2" placeholder="Subs for channel 2">
+			</div>
+			<br>
+		</div>
+		<div>
+			<h2 id="subGapTitle" onclick="setCounts()">Sub Gap</h2>
+			<div class="odometer" id="subgap" onclick="toggleBoxes()">0</div>
+		</div>
+		<div id="chartarea">
+			<div id="chart"></div>
+		</div>
+		<script src="https://code.highcharts.com/stock/highstock.js"></script>
+		<script src="https://github.hubspot.com/odometer/odometer.js"></script>
+		<script src="../../src/lcedit-compare-2.0.0.js"></script>
+	</body>
+</html>
