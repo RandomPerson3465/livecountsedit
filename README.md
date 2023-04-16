@@ -23,7 +23,7 @@ Planned ideas (note that NONE of these are confirmed and they might not appear a
 ## New Livecountsedit by [Sync](https://twitter.com/just_Sync2) and [Straight from MG](https://www.youtube.com/c/StraightfromMG)
 Link: [livecountsedit.github.io](https://livecountsedit.github.io)
 NOTE: These changelogs are unofficial.
-[Discord for Livecountsedit](https://discord.gg/qpwvrYmQKs)
+[Discord for Livecountsedit](https://discord.gg/Uke3tdtYnD)
 
 ### 6.2.2 -- February 10, 2022
 - Added video and view counts for the Akshatmittal theme.
