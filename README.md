@@ -5,20 +5,6 @@ This repository contains the unminified source code for all versions of Livecoun
 
 Fun fact: The [livecounts.net](https://livecounts.net) site [had a fake subscriber count feature](https://twitter.com/LivecountsSite/status/848275500749299712) as an April Fools' joke back in 2017.
 
-There might be a new update for Livecountsedit soon, despite RandomPerson3465 saying he didn't want to work on it anymore in September 2021.
-
-This update will:
-- Merge the code for compare mode and regular mode, so they have the same features and are updated at the same time.
-- Currently, it is planned to have the old Livecounts.net theme, but there might be settings to customize the theme.
-- Introduce a better settings menu
-- Add a "custom distribution" feature to replace the "Occasionally remove subs" in v3
-
-Planned ideas (note that NONE of these are confirmed and they might not appear at all in the update):
-- Feature to import and export settings/themes (kind of like the URL parameters in v4)
-- Adding a channel banner and icon (will be optional, as the basic layout of Livecounts.net doesn't have those)
-- Ability to resize and move the graph, channel banner, and channel icon
-- ???
-
 # Version history and changelogs
 ## New Livecountsedit by [Sync](https://twitter.com/just_Sync2) and [Straight from MG](https://www.youtube.com/c/StraightfromMG)
 Link: [livecountsedit.github.io](https://livecountsedit.github.io)
