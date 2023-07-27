@@ -17,7 +17,8 @@ const c2 = localStorage.getItem("c2Name") || "Channel 2"
 const s = localStorage.getItem("showBoxes") !== null ? stringToBoolean(localStorage.getItem("showBoxes")) : true
 const g = localStorage.getItem("showGraph") !== null ? stringToBoolean(localStorage.getItem("showGraph")) : true
 window.onload = function() {
-    openTab(event, "Settings_General")
+    openTab(event, "Settings_General");
+    document.getElementById("defaultTab").className += " active";
     document.querySelector("#subGapTitle").innerText = localStorage.getItem("subGapTitle") || "Sub Gap";
     updateNames(c1, c2)
     if (!s) {
