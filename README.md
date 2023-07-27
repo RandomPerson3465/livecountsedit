@@ -11,6 +11,46 @@ Link: [livecountsedit.github.io](https://livecountsedit.github.io)
 NOTE: These changelogs are unofficial.
 [Discord for Livecountsedit](https://discord.gg/Uke3tdtYnD)
 
+### 6.7.0 -- January 18, 2023
+- Sort by fastest growing.
+- Sequences which allow to visualize the top 50 without editing it live.
+- Themes: so far, top 10, 25, 50, 100 and a line chart
+- More optimized saves both in files and localStorage
+- Audits (I need to organize the settings better) 
+- Mean Gains (Thanks RandomPerson!)
+- Quick Select for edit.
+- Offline Gains.
+- Odometer Speed Changer.
+- Odometer color changers (both up and down)
+
+### 6.6.2-3 -- January 2, 2023
+- Fixed a one time bug that will probably never happen again
+
+### 6.6.1 -- December 31, 2022
+- Added abbreviations to top 50
+- Fixed animation in top 50
+
+### 6.6.0 -- December 26, 2022
+- Added some cool things to make the site show up more in search.
+- Fixed many issues within the compare counters.
+- Added an option to remove fastest growing channels from top 50.
+- Added a way to hide settings in top 50.
+- Added a home page and rerouted lcedit counters.
+
+### 6.5.4-5 -- December 25, 2022
+- Fixed deleting again
+- Added a way to disable odometer animation
+
+### 6.5.3 -- December 22, 2022
+- Fixed deleting
+  
+### 6.5.1-2 -- December 21, 2022
+- Fixed bugs
+- Fixed a random popup
+
+### 6.5.0 -- December 20, 2022
+- Top 50
+
 ### 6.2.2 -- February 10, 2022
 - Added video and view counts for the Akshatmittal theme.
 
@@ -33,6 +73,9 @@ NOTE: These changelogs are unofficial.
 
 ## Original Livecountsedit
 
+### 4.1.1 -- July 27, 2023
+- Livecountsedit is now working again. The release of [Highcharts v11](https://www.highcharts.com/blog/changelog/#highcharts-v11.0.0) ended up breaking Livecountsdit, so we downgraded back to Highcharts 10.3.3.
+  
 ### 4.1.fools or vApril.1 -- April 1, 2021
 - April Fools Update
 
@@ -82,6 +125,11 @@ NOTE: These changelogs are unofficial.
 - Livecountsedit uploaded to website.
 
 ## Livecountsedit Compare Mode
+
+### 2.1.1 -- July 27, 2023
+- Livecountsedit is now working again. The release of [Highcharts v11](https://www.highcharts.com/blog/changelog/#highcharts-v11.0.0) ended up breaking Livecountsdit, so we downgraded back to Highcharts 10.3.3.
+- Updated Discord information
+- Fixed bugs
 
 ### 2.1.0 -- March 24, 2021
 - Adds a better options menu, that is accessed with the gear icon on the top left.
